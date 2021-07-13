@@ -1,6 +1,6 @@
 # Design-the-electric-circuit-of-5-servo-motors-with-potentiometers
 
-controlling servo motors for robot arm project with smart methods company
+Controlling servo motors for robot arm project with smart methods company
 
 this is the electronic part of the robot arm project using 5 servo motors to control the joints of the robot arm using potentiometer in 90 degrees range
 
